@@ -2,8 +2,6 @@
 
 echo "nihao";
 echo 'dev';
-echo 'hehe';
-
-$a=122;
+echo 'he';
 
 ?>
