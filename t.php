@@ -2,5 +2,6 @@
 
 echo "nihao";
 echo 'dev';
+echo 'hehe';
 
 ?>
